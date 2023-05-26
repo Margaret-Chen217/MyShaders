@@ -8,15 +8,15 @@
 
 个人认为这个天空球背景更适合无光照
 
-![withoutLight.png](ScreenShot%2FwithoutLight.png)
+![withoutLight02.png](ScreenShot%2FwithoutLight02.png)
 
 ### Lambert光照
 
-![withLight.png](ScreenShot%2FwithLight.png)
+![withLight02.png](ScreenShot%2FwithLight02.png)
 
 ### 交互
 
-![interactGrass.png](ScreenShot%2FinteractGrass.png)
+![interactGrass02.png](ScreenShot%2FinteractGrass02.png)
 
 ## Shader使用方法
 1. 将**ShaderInteractor.cs**文件挂在角色上
